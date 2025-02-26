@@ -19,28 +19,8 @@ The Diamond Price Prediction project is a machine learning-based application tha
 📌 Deployment Ready: Can be deployed using Flask.
 
 📁 Project Structure
+![structure](https://github.com/user-attachments/assets/cb4637ed-6c40-4f2b-98da-14f1c1b13bf4)
 
-Diamond_Price_Prediction/
-│── artifacts/
-│── notebooks/
-│── src/
-│   ├── components/
-│   │   ├── data_ingestion.py
-│   │   ├── data_transformation.py
-│   │   ├── model_trainer.py
-│   ├── pipelines/
-│   │   ├── training_pipeline.py
-│   │   ├── prediction_pipeline.py
-│   ├── utils.py
-│   ├── exception.py
-│   ├── logger.py
-│── templates/
-│   ├── index.html
-│   ├── form.html
-│── application.py
-│── requirements.txt
-│── setup.py
-│── README.md
 
 🔧 Installation & Setup
 
